@@ -1,1 +1,1 @@
-# Testing_Magento_Luma
+# Magento_Luma
